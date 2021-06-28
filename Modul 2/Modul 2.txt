@@ -1,0 +1,19 @@
+Nama : Daffa Putra Alwansyah
+NIM : L200190031
+Kelas :  A
+
+1. Jelaskan implementasi perangkat lunak dan berikan masing-masing satu contoh yang kalian ketahui dalam bidang:
+       A. Kesehatan: Pasien dapat memeriksa sakitnya melalui software dan konsultasi kepada dokter, apalagi diera pandemi ini jadi ini sangat bermanfaat, misalnya aplikasi: "HaloDok".
+      B. Kebudayaan: dalam kebudayaan dapat diimplementasikan dengan mengenalkan budaya melalui software dengan begitu akan terasa mudah dan efisien, misalnjya aplikasi: "WikiBudaya, YouTube, Google".
+      C. Pariwisata: dalam pariwisata, orang dapat melihat wisata alam dengan software dan mengetahui harga tiket, jam buka dan lainnya, misal aplikasi: "Google, YouTube".
+      D. Agama: dalam Agama, orang-orang dapat membaca kitab mereka melali software dengan begitu mempermudah dalam menjalankan agama, misal aplikasi: "Al-Qur'an Online".
+
+2. Mengapa manusia menjadi masalah utama penyebab keausan sebuah perangkat lunak?
+
+karena manusia mudah meninggalkan software yang kurang up to date dan perkembangan jaman, tanpa diupdate software akan mengalami keausan dan tanpa inovasi juga software mengalami keausan sejalannya jaman sekarang.
+
+3. Bagaimana sebuah perangkat lunak bisa dikatakan memiliki kualitas yang baik?
+software dapat dikatakan kualitas baik yaitu dapat dilihat dari segi Functional, Maintainability, Performance, Efficiency, Security, Compatibility, Usability, Dependability. Jika semua itu sudah terjalankan dengan baik, maka bisa dikatakan bahwa software tersebut baik.
+
+4. Menurut kalian, solusi apa yang akan kalian berikan untuk menghadapi tantangan-tantangan dalam rekayasa perangkat lunak?
+Memelihara dan meng-update PL sedemikian sehingga biaya yang berlebihan dapat dihindari dan layanan bisnis yang penting tetap dilakukan, Tantangan teknik pengembangan untuk membangun perangkat lunak yang dapat diandalkan dan cukup flexibel untuk menghadapi heterogenitas yang ada, Tantangan mempersingkat waktu kirim sistem yang besar dan kompleks, tanpa mengurangi kualitas sistem.

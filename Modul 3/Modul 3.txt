@@ -1,0 +1,33 @@
+Nama : Daffa Putra Alwansyah
+NIM : L200190031
+Kelas : A
+
+Apa itu model proses Waterfall dalam proses rekayasa perangkat lunak?
+
+Model waterfall adalah model pengembangan perangkat lunak yang menekankan fase-fase yang berurutan dan sistematis,dimulai dari spesifikasi kebutuhan konsumen dan berkembang melalui proses perencanaan (planning), pemodelan (modelling), pembangunan (construction), dan penyebaran (deployment), yang berujung pada dukungan terus menerus untuk sebuah perangkat lunaak yang utuh.
+
+Tahapannya:
+-System / Information Engineering and Modeling.
+-Software Requirements Analysis.
+-Design
+-Coding.
+-Testing / Verification. 
+-Maintenance.
+
+
+
+Keuntungan dan kelemahan dari model proses Waterfall?
+Keuntungan:
+1. Memiliki proses yang urut, mulai dari analisa hingga support.
+2. Kualitas dari sistem yang dihasilkan akan baik. Ini dikarenakan oleh pelaksanaannya secara bertahap.     Sehingga tidak terfokus pada tahapan tertentu.
+3. Pengerjaan project system akan terjadwal dengan baik dan mudah dikontrol.
+4. Cocok untuk system software berskala besar.
+5. Setiap proses tidak dapat saling tumpang tindih.
+
+
+Kekurangan:
+1. Kesalahan kecil akan menjadi masalah besar jika tidak diketahui sejak awal pengembangan yang berakibat pada tahapan selanjutnya.
+2. Biaya juga mahal, hal ini juga dikarenakan waktu pengembangan yang lama.
+3. Membutuhkan banyak riset dan juga penelitian pendukung untuk mengembangkan sistem menggunakan metode waterfall
+4.  Waktu pengembangan lama. hal ini dikarenakan input tahap berikutnya adalah output dari tahap sebelumnya.
+5. Karena tahap-tahapan pada waterfall tidak dapat berulang, maka model ini tidak cocok untuk pemodelan pengembangan sebuah proyek yang memiliki kompleksitas tinggi.

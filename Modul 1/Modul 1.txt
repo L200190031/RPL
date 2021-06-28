@@ -1,0 +1,14 @@
+Nama : Daffa Putra Alwansyah
+NIM : L200190031
+Kelas : A
+
+Menurut saya ketika saya ingin membuat aplikasai/sistem/software langkah yang harus dibuat:
+1. Membuat Algoritma yang akan dipakai di Software, karena tanpa Algoritma sebuah sistem sangat susah dibuat.
+
+2. Perancangan dan Desgin System, perancangan system didalam software sangat penting dan desgin system diperlukan untuk mempermudah pengalaman user dalam memakai software.
+
+3. Coding/Implementasi dan dokumentasi, setelah membuat perancangana dan desgin makan langkah selanjutnya mengimplementasi desgin dan krangka dalam bentuk koding serta mendokumentasikan.
+
+4. Testing, setelah membuat coding maka langkah selanjutnya testing, untuk mengetahui bug apa saja yang ada didalam coding tersebut.
+
+5. Maintance, jika ada bug, maka langkah selanjutnya yaitu maintance yang berguna  untuk memperbaiki bug.
